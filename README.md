@@ -28,6 +28,7 @@ and change it's mode to executable. Examples:
 ```
 sudo git clone git://github.com/colinmollenhour/modman.git /opt/modman
 sudo ln -s /opt/modman/modman /usr/local/bin/
+sudo ln -s /opt/modman/bash_completion /etc/bash_completion.d/modman
 ```
 
 #### Git method (without sudo privilege):
